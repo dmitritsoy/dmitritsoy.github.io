@@ -1,5 +1,21 @@
 [
     {
+        "title": "Python Core Language",
+        "icon": "https://pluralsight.imgix.net/paths/python-7be70baaac.png",
+        "percentile": "86th",
+        "verifiedDate": "VERIFIED 9.2.2022",
+        "score": "213",
+        "level": "expert"
+    },
+    {
+        "title": "Infrastructure and Configuration on Microsoft Azure for DevOps Engineers",
+        "icon": "https://pluralsight2.imgix.net/paths/images/group-policy-administration-ee0dacafe8.png",
+        "percentile": "86th",
+        "verifiedDate": "VERIFIED 12.3.2021",
+        "score": "215",
+        "level": "expert"
+    },
+    {
         "title": ".NET Microservices",
         "icon": "https://pluralsight2.imgix.net/assessments/images/icons/no-logo-jAtNDcyYi00ZWJ.png",
         "percentile": "84th",
@@ -152,7 +168,7 @@
         "level": "expert"
     },
     {
-        "title": "Understanding DevOps",
+        "title": "DevOps Foundations",
         "icon": "https://pluralsight2.imgix.net/paths/images/devops-18b91372ed.png",
         "percentile": "97th",
         "verifiedDate": "VERIFIED 10.14.2019",
