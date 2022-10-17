@@ -167,4 +167,8 @@ section {
             color:black
         }
     }
+    .no-break
+    {
+        break-inside: avoid;
+    }
 }
