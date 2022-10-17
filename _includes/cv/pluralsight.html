@@ -4,7 +4,7 @@
 
     {% assign sorted = (site.data.pluralsight.iq | where: "level","expert" | sort:'score' | reverse) %}
     {% for iq in sorted %}
-    <div class="pluralsight-item aligned-image">
+    <div class="pluralsight-item aligned-image no-break">
             <div class="image">
                 <img src="{{ iq.icon }}" alt="{{ iq.title }}" />
             </div>
