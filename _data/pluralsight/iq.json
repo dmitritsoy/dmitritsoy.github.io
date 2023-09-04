@@ -1,4 +1,11 @@
-[
+[    {
+        "title": "Building Web Applications with React",
+        "icon": "https://pluralsight2.imgix.net/paths/images/react-0f6558f88f.png",
+        "percentile": "86th",
+        "verifiedDate": "VERIFIED 6.2.2023",
+        "score": "216",
+        "level": "expert"
+    },
     {
         "title": "Python Core Language",
         "icon": "https://pluralsight.imgix.net/paths/python-7be70baaac.png",
